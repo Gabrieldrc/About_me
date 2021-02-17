@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About_me</string>
+    <string name="name">Gabriel Rodriguez</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">
+        Hello, my name is Gabriel Rodriguez.
+        \n\nI am from Venezuela.
+        \nMy career and love is Programming.
+        \nI like photography and travel around the world meetting new people and cultures.
+        \nAlso, i like play pokemon cards and videogames.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
